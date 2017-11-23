@@ -64,7 +64,7 @@
 	
 <addon id="plugin.video.bbn"
 	name="BBN"
-	version="0.0.3"
+	version="0.0.4"
 	provider-name="Levistitch">
   <requires>
     <import addon="xbmc.python" version="2.19.0"/>
@@ -82,5 +82,5 @@
     <website>n/a</website>
   </extension>
 </addon>
-
+	
 </addons>
