@@ -83,4 +83,24 @@
   </extension>
 </addon>
 	
+<addon id="repository.levistitch" name="Levistitch Repository" version="1.0" provider-name="Levistitch">
+	<extension point="xbmc.addon.repository" name="Levistitch ">
+    <dir>
+			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+    </dir>
+	<dir>
+			<info compressed="false">https://raw.githubusercontent.com/levistitch/lszips/master/levistitch/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/levistitch/lszips/master/levistitch/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/levistitch/lszips/master/levistitch/</datadir>
+	</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary></summary>
+		<description></description>
+		<platform>all</platform>
+	</extension>
+</addon>
+	
 </addons>
