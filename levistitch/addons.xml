@@ -106,7 +106,7 @@
   </extension>
 </addon>
 	
-<addon id="plugin.video.katet" name="[COLORorange]KaTet[/COLOR]" version="1.0" provider-name="Oy, Jen">
+<addon id="plugin.video.katet" name="[COLORteal]Ka-Tet[/COLOR]" version="1.0" provider-name="Levi, Jen">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.nanscrapers" version="0.5.5" />
