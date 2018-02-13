@@ -30,15 +30,10 @@ fanart="http://"
 adult="no"
 description=""
 
-name="Uktvnow"
+name="Pandora (Ad Free)"
 section="no"
-url="http://uktvnow.net/download/UKTVNowFirestick7.13.apk"
+url="http://cryptikwizard.com/ftg/apks/Pandora_8.3.apk"
 icon="http://"
 fanart="http://"
 adult="no"
 description=""
-
-
-
-
-
